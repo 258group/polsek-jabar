@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 width: 100%;
                 max-width: 650px;
                 background: var(--first-color);
-                border: 2px solid #f2ff00;
+                border: 2px solid #ffd800;
                 display: block;
                 margin: 20px auto;
                 border-radius: 15px;
@@ -27,9 +27,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 padding: 15px 10px;
                 font-weight: bold;
                 font-size: 16px;
-                color: #f2ff00;
+                color: #ffd800;
                 background: #000;
-                border-bottom: 1px solid #f2ff00;
+                border-bottom: 1px solid #ffd800;
                 letter-spacing: 1px;
             }
 
@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 margin: 0;
             }
             .teks-berjaalan {
-                border-bottom: 1px solid #f2ff00;
-                border-top: 1px solid #f2ff00;
+                border-bottom: 1px solid #ffd800;
+                border-top: 1px solid #ffd800;
                 padding: 8px 0;
                 background: #000;
             }
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 padding: 15px 10px;
                 display: flex;
                 justify-content: center;
-                border-bottom: 1px solid #f2ff00;
+                border-bottom: 1px solid #ffd800;
             }
             .menu-item {
                 list-style-type: none;
@@ -70,9 +70,9 @@ document.addEventListener('DOMContentLoaded', function () {
             .menu-item li {
                 flex: 1;
                 max-width: 120px;
-                background: #f2ff00;
+                background: #ffd800;
                 color: #000000;
-                border: 1px solid #f2ff00;
+                border: 1px solid #ffd800;
                 padding: 10px 5px;
                 font-size: 12px;
                 font-weight: 800;
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 display: none;
                 padding: 20px;
                 background-color: #0a0a0a;
-                border-bottom: 1px solid #f2ff00;
+                border-bottom: 1px solid #ffd800;
                 line-height: 1.6;
                 font-size: 13px;
             }
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 margin: 15px 0;
             }
             .promo-table td {
-                border: 1px solid #f2ff00;
+                border: 1px solid #ffd800;
                 padding: 10px;
                 text-align: center;
             }
@@ -169,44 +169,39 @@ document.addEventListener('DOMContentLoaded', function () {
         <img src="https://veldrive.com/1krznbAJ/2026/04/15/row-1-column-1.jpg" alt="Bonus New Member 100%">
     </button>
 
-    <div class="promo-content" style="background-color: #1a1a1a; padding: 15px; border-radius: 0 0 8px 8px; line-height: 1.6;">
+<div class="promo-content" style="background-color: #1a1a1a; padding: 15px; border-radius: 0 0 8px 8px; line-height: 1.6;">
         
-        <div style="text-align:center; border-bottom: 2px double #ffd700; padding-bottom: 10px; margin-bottom: 20px;">
-            <h2 style="color:#ffd700; font-weight:bold; font-size:20px; margin: 0; text-transform: uppercase;">
-                BONUS NEW MEMBER UP TO 100%
-            </h2>
-        </div>
-
-        <p style="color: #ffd700; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #444; font-size: 14px;">
-            SYARAT & KETENTUAN :
-        </p>
-        <ul style="list-style-type: none; padding-left: 0; color: #eee; font-size: 13px; margin-bottom: 20px;">
-            <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Berlaku untuk semua player baru <b>MIO500</b>.</li>
-            <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Hanya berlaku untuk permainan <b>SLOT</b>.</li>
-            <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Minimal Deposit: <span style="color: #00ff00; font-weight: bold;">IDR 50.000</span></li>
-            <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Maksimal Bonus: <span style="color: #00ff00; font-weight: bold;">IDR 100.000</span></li>
-            <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Target TurnOver: <b>X10</b></li>
-            <li style="margin-bottom: 8px;">> Klaim otomatis saat deposit pertama.</li>
-        </ul>
-
-        <div style="background: linear-gradient(145deg, #222, #333); padding: 15px; border-radius: 10px; border: 1px solid #ffd700; margin-bottom: 20px;">
-            <p style="color: #ffd700; font-weight: bold; margin-top: 0; text-align: center; text-decoration: underline;">CARA KLAIM & PERHITUNGAN</p>
-            <div style="background: #000; padding: 10px; border-radius: 10px; font-size: 12px; border-left: 4px solid #ffd700;">
-                <b>Contoh:</b> Depo 50,000 + 100% = 50.000 <br>
-                Total TO: 50.000 x 15 = <b>750.000</b>
-            <p style="font-size: 12px; margin-bottom: 10px;">TO yang harus dicapai untuk Withdraw.</p>
-            </div>
-        </div>
-
-        <div style="font-size: 11px; color: #aaa; text-align: justify; border-top: 1px solid #444; padding-top: 10px;">
-            <strong style="color: #ff4d4d;">PERHATIAN:</strong> Dilarang ada kesamaan IP atau manipulasi data. Keputusan <b>MIO500</b> mutlak.
-        </div>
+    <div style="text-align:center; border-bottom: 2px double #ffd700; padding-bottom: 10px; margin-bottom: 20px;">
+        <h2 style="color:#ffd700; font-weight:bold; font-size:20px; margin: 0; text-transform: uppercase;">
+            SELAMAT DATANG DI MURAH898
+        </h2>
     </div>
+
+    <div style="background: linear-gradient(145deg, #222, #333); padding: 15px; border-radius: 10px; border: 1px solid #ffd700; margin-bottom: 20px;">
+        <p style="color: #ffd700; font-weight: bold; margin-top: 0; text-align: center; text-decoration: underline;">
+            INFORMASI HALAMAN BONUS MURAH898
+        </p>
+        <p style="color: #eee; font-size: 13px; text-align: center; margin: 0;">
+            Halaman ini disediakan sebagai pusat informasi promo dan bonus menarik dari <b>MURAH898</b> yang berlaku untuk semua member, baik member baru maupun member lama.
+        </p>
+    </div>
+
+    <div style="color:#eee; font-size:13px; margin-bottom: 15px;">
+        Kami menyambut seluruh member dengan pengalaman bermain yang lebih nyaman dan menguntungkan di <b>MURAH898</b>. 
+        Semua informasi promo akan ditampilkan secara transparan agar mudah dipahami oleh setiap pengguna.
+    </div>
+
+    <ul style="list-style-type: none; padding-left: 0; color: #eee; font-size: 13px;">
+        <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Berlaku untuk semua member <b>MURAH898</b>.</li>
+        <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Minimal Deposit: <span style="color: #00ff00; font-weight: bold;">IDR 10.000</span></li>
+        <li style="margin-bottom: 8px; border-bottom: 1px solid #333; padding-bottom: 5px;">> Minimal Withdraw: <span style="color: #00ff00; font-weight: bold;">IDR 50.000</span></li>
+    </ul>
+
 </div>
 
 <div class="promo-block">
     <button class="collapsible">
-        <img src="https://veldrive.com/1krznbAJ/2026/04/15/row-2-column-1.jpg" alt="Garansi Kekalahan MIO500">
+        <img src="https://veldrive.com/1krznbAJ/2026/04/15/row-2-column-1.jpg" alt="Garansi Kekalahan MURAH898">
     </button>
 
     <div class="promo-content" style="background-color: #1a1a1a; padding: 15px; border-radius: 0 0 8px 8px; line-height: 1.6;">
@@ -216,39 +211,47 @@ document.addEventListener('DOMContentLoaded', function () {
                  GARANSI KEKALAHAN 100% 
             </h3>
             <p style="font-size: 13px; color: #fff; margin: 5px 0;">
-                Main Tanpa Ragu di <span style="color:var(--third-color); font-weight:bold;">MIO500</span> <br>
+                Main Tanpa Ragu di <span style="color:var(--third-color); font-weight:bold;">MURAH898</span> <br>
             </p>
         </div>
 
         <div style="background: linear-gradient(145deg, #222, #333); padding: 12px; border-radius: 8px; border: 1px solid var(--third-color); margin-bottom: 15px; text-align: center;">
-            <p style="color: #fff; font-size: 13px; margin: 0;">Khusus Member Baru Slot (Deposit Pertama)</p>
+            <p style="color: #fff; font-size: 13px; margin: 0;">Khusus Member Slot (Deposit Pertama)</p>
             <p style="color: var(--third-color); font-size: 15px; font-weight: bold; margin: 5px 0;">SALDO BALIK 100% JIKA KALAH!</p>
         </div>
 
         <p style="color: var(--third-color); font-weight: bold; margin-bottom: 8px; font-size: 14px; text-transform: uppercase;">Syarat & Ketentuan :</p>
         <ul style="list-style: none; padding-left: 0; color: #eee; font-size: 12px; margin-bottom: 15px;">
-            <li style="padding: 5px 0; border-bottom: 1px solid #333;">> Berlaku khusus <b>New Member</b> di permainan <b>SLOT</b>.</li>
-            <li style="padding: 5px 0; border-bottom: 1px solid #333;">> Minimal Deposit untuk klaim promo ini: <b style="color:var(--third-color);">IDR 50.000</b>.</li>
-            <li style="padding: 5px 0; border-bottom: 1px solid #333;">> Maksimal Saldo Garansi: <b style="color:var(--third-color);">IDR 100.000</b>.</li>
-            <li style="padding: 5px 0; border-bottom: 1px solid #333;">> Saldo diklaim via <b>Livechat / WA</b> saat saldo pertama habis.</li>
-            <li style="padding: 5px 0; border-bottom: 1px solid #333;">> Target Turnover Ringan: <b style="color: #ff4500;">15x</b>.</li>
-            <li style="padding: 5px 0;">> Berlaku via <b>BANK & E-WALLET</b> (Tidak berlaku PULSA).</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Bonus Garansi Kekalahan 100% berlaku untuk seluruh member baru di <b>MURAH898</b>.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Minimal deposit <b>IDR 50.000</b> untuk dapat klaim Garansi 100%.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Maksimal bonus garansi 100% adalah <b>IDR 100.000</b>.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Syarat withdraw setelah mencapai turnover (TO) x8 dari total deposit + bonus.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Promo ini hanya berlaku untuk permainan <b>SLOT</b> (game lain tidak berlaku).</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Bonus wajib di claim sendiri pada saat pengisian formulir deposit.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Minimal dan maksimal saldo yang dapat di withdraw adalah <b>IDR 800.000</b>.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Untuk saldo masuk ke rekening hanya <b>IDR 400.000</b>, selebihnya akan hangus.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Waktu yang diberikan hanya 1 hari, bila lewat maka saldo akan hangus.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Promo tidak dapat digabungkan dengan promo atau event lain.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 <b>MURAH898</b> berhak membatalkan bonus apabila ditemukan indikasi kecurangan atau penipuan.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Tidak boleh ada kesamaan IP dengan player lain / penggunaan VPN.</li>
+
+            <li style="padding: 5px 0; border-bottom: 1px solid #333;">💎 Apabila data tidak valid maka kemenangan & bonus tidak dapat di withdraw dan akan di hanguskan.</li>
+
+            <li style="padding: 5px 0;">💎 Keputusan <b>MURAH898</b> adalah mutlak dan tidak dapat diganggu gugat.</li>
+
         </ul>
-
-        <div style="background: #252525; border-left: 4px solid var(--third-color); padding: 12px; margin: 15px 0; border-radius: 5px;">
-            <p style="color: #ffd700; font-weight: bold; font-size: 12px; margin-bottom: 5px;">CONTOH PERHITUNGAN TURNOVER:</p>
-            <p style="font-size: 13px; color: #fff; margin: 0;">
-                [DEPOSIT + BONUS] x 15 = TOTAL TO [50.000 + 50.000] x 15 = 1.500.000 <br>
-                Target TO: 100.000 x 8 = <b style="color: #00ff00;">1.500.000</b>
-            </p>
-        </div>
-
-        <div style="background: #000; padding: 10px; border-radius: 5px; border-left: 4px solid #ff4500; margin-bottom: 15px;">
-            <p style="font-size: 12px; color: #fff; margin: 0;">
-                <b style="color: #ff4500;">ESTIMASI WD:</b> Maksimal WD adalah <b>2X</b> dari First Deposit. <br>
-                <small style="color: #bbb;">Contoh: Depo 100rb, maka maksimal saldo yang bisa di WD adalah 200rb.</small>
-            </p>
-        </div>
 
         <div style="text-align: center; margin-bottom: 15px;">
             <a href="https://direct.lc.chat/19644804/" style="background: var(--third-color); color: #000; padding: 10px 20px; border-radius: 5px; font-weight: bold; text-decoration: none; font-size: 13px; display: inline-block; text-transform: uppercase;">
@@ -256,59 +259,73 @@ document.addEventListener('DOMContentLoaded', function () {
             </a>
         </div>
 
-        <p style="font-size: 11px; color: #999; text-align: justify; font-style: italic; border-top: 1px solid #444; padding-top: 8px;">
-            <b>NB:</b> Promo hangus jika member sudah melakukan Withdraw atau Deposit ke-2 sebelum klaim. Dilarang keras manipulasi IP atau <i>Hold Spin</i>. Keputusan <b>MIO500</b> adalah Mutlak.
-        </p>
     </div>
 </div>
 
 <div class="promo-block">
     <button class="collapsible">
-        <img src="https://veldrive.com/1krznbAJ/2026/04/15/row-3-column-1.jpg" alt="Bonus New Member 30% MIO500">
+        <img src="https://veldrive.com/1krznbAJ/2026/04/15/row-3-column-1.jpg" alt="Bonus New Member 30% MURAH898">
     </button>
 
     <div class="promo-content" style="background-color: #1a1a1a; padding: 15px; border-radius: 0 0 8px 8px; line-height: 1.6;">
         
         <div style="text-align:center; border-bottom: 2px double var(--third-color); padding-bottom: 10px; margin-bottom: 15px;">
             <h3 style="color:var(--third-color); font-weight:bold; font-size:18px; margin: 0; text-transform: uppercase;">
-                BONUS NEW MEMBER 30% MIO500
+                BONUS NEW MEMBER 30% MURAH898
             </h3>
             <p style="font-size: 13px; color: #fff; margin: 5px 0;">
-                Tambahan Saldo Melimpah Khusus Player Baru!
+                Tambahan Saldo Khusus Member Baru
             </p>
         </div>
 
-        <p style="color: #ffd700; font-weight: bold; margin-bottom: 8px; border-bottom: 1px solid #444; font-size: 14px;">SYARAT & KETENTUAN :</p>
+        <p style="color: #ffd700; font-weight: bold; margin-bottom: 8px; border-bottom: 1px solid #444; font-size: 14px;">
+            SYARAT & KETENTUAN :
+        </p>
         
         <ul style="list-style-type: none; padding-left: 0; color: #ffffff; font-size: 13px;">
-            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">> Berlaku untuk semua Member Baru <b>MIO500</b>.</li>
-            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">> Wajib klaim melalui <b>Live Chat</b> (Maksimal 2 jam setelah depo).</li>
-            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">> Minimal Deposit: <b style="color:var(--third-color);">IDR 100.000</b>.</li>
-            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">> Maksimal Bonus: <b style="color:var(--third-color);">IDR 300.000</b>.</li>
-            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">> Berlaku khusus untuk permainan <b style="color: #00ff00;">SLOT</b>.</li>
-            <li style="margin-bottom: 6px;">> Syarat Withdraw: Target Turnover <b style="color: #ff4500;">8X</b>.</li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Bonus hanya berlaku untuk member baru yang pertama kali deposit di <b>MURAH898</b>.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Minimal Deposit untuk mendapatkan bonus new member adalah <b>IDR 50.000</b>.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Promo WAJIB claim pada saat isi formulir deposit dan bisa claim manual menggunakan kode <b>"BONUSNEWMEMBER30%"</b> (Khusus Slot).
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Contoh perhitungan: Deposit 200.000 + 30% = 60.000 bonus, total saldo menjadi 260.000.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Maksimal bonus new member yang diberikan adalah <b>IDR 100.000</b> per claim.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Syarat withdraw adalah 8x turnover dari nilai deposit + bonus member baru.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Batas waktu claim promo ini hanya 1x24 jam dari deposit pertama.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Promo New Member tidak dapat digabungkan dengan bonus lainnya.
+            </li>
+
+            <li style="margin-bottom: 6px; border-bottom: 1px solid #333; padding-bottom: 4px;">
+                💎 Jika ditemukan kecurangan seperti kesamaan data, IP, penipuan deposit, safety bet, atau investasi, maka <b>MURAH898</b> berhak membatalkan bonus tanpa dispensasi.
+            </li>
+
+            <li style="margin-bottom: 6px;">
+                💎 Semua keputusan <b>MURAH898</b> bersifat mutlak dan tidak dapat diganggu gugat.
+            </li>
+
         </ul>
 
-        <div style="background: #252525; border-left: 4px solid var(--third-color); padding: 12px; margin: 15px 0; border-radius: 5px;">
-            <p style="color: #ffd700; font-weight: bold; font-size: 12px; margin-bottom: 5px;">CONTOH PERHITUNGAN TURNOVER:</p>
-            <p style="font-size: 13px; color: #fff; margin: 0;">
-                Depo 100.000 + Bonus 30.000 = 130.000 <br>
-                Target TO: 130.000 x 8 = <b style="color: #00ff00;">1.040.000</b>
-            </p>
-        </div>
-
-        <div style="background: #331111; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-            <p style="color: #ff4d4d; font-weight: bold; font-size: 12px; margin: 0 0 5px 0;">PERHATIAN :</p>
-            <p style="font-size: 11px; color: #ccc; margin: 0; font-style: italic;">
-                Bonus hangus jika saldo sudah dimainkan sebelum klaim, ada kesamaan IP, atau menggunakan VPN/Proxy. Keputusan <b>MIO500</b> adalah mutlak.
-            </p>
-        </div>
-
-        <div style="text-align: center;">
-            <a href="https://direct.lc.chat/19644804/" style="background: var(--third-color); color: #000; padding: 10px 25px; border-radius: 5px; font-weight: bold; text-decoration: none; font-size: 14px; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-                KLAIM BONUS 30% SEKARANG
-            </a>
-        </div>
     </div>
 </div>
 
